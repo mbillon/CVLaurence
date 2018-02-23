@@ -1,0 +1,109 @@
+.form-header {
+    color: #fff;
+    text-align: center;
+    margin-top: -150px;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.cardBorder{
+    border-radius: 40px !important;
+}
+
+.roundedButton{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+.transparentButton{
+    background-color: #e3b699;
+    border-radius: 50%;
+    border-color: transparent;
+}
+
+.iconButton{
+    font-size: 900%;
+}
+
+.icon{
+    font-size: 200%;
+    margin-right: 5%;
+}
+
+.icon2{
+    font-size: 200%;
+    margin-right: 2%;
+}
+
+.listStyle{
+    list-style-type: disc ;
+}
+
+.littleIcon{
+    font-size: 75%;
+}
+
+.roundedImage{
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #fff2f7;
+}
+
+
+.rosePale {
+    background-color: #fff2f7;
+}
+
+.brunTane {
+    background-color: #e3b699;
+}
+
+.textBrun {
+    color: #b28e74;
+}
+
+.textBrun:hover {
+    color: #87604a;
+}
+
+.textBrunFonce {
+    color: #87604a;
+}
+
+.brunFonce {
+    color: #87604a;
+}
+
+.textGris{
+    color: #7c7977;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.blackText:hover{
+    color: #87604a;
+}
+
+.blackText{
+    color: black;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.view2{
+    background: url("../../assets/background-cv.jpg")no-repeat center center fixed !important;
+-webkit-background-size: cover !important;
+-moz-background-size: cover !important;
+-o-background-size: cover !important;
+background-size: cover !important;
+}
